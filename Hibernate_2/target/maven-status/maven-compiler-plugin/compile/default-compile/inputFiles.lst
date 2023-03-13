@@ -1,0 +1,12 @@
+D:\NetBeansProjects\Hibernate_2\src\main\java\repositories\ICategoryRepo.java
+D:\NetBeansProjects\Hibernate_2\src\main\java\repositories\IProductRepo.java
+D:\NetBeansProjects\Hibernate_2\src\main\java\service\ProductService.java
+D:\NetBeansProjects\Hibernate_2\src\main\java\domainmodels\Category.java
+D:\NetBeansProjects\Hibernate_2\src\main\java\service\CategoryService.java
+D:\NetBeansProjects\Hibernate_2\src\main\java\repositories\ProductRepository.java
+D:\NetBeansProjects\Hibernate_2\src\main\java\domainmodels\Product.java
+D:\NetBeansProjects\Hibernate_2\src\main\java\repositories\CategoryRepository.java
+D:\NetBeansProjects\Hibernate_2\src\main\java\service\IProductService.java
+D:\NetBeansProjects\Hibernate_2\src\main\java\utilities\HibernateUtil.java
+D:\NetBeansProjects\Hibernate_2\src\main\java\views\ViewQLProducts.java
+D:\NetBeansProjects\Hibernate_2\src\main\java\service\ICategoryService.java
